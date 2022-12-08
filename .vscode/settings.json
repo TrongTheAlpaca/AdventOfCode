@@ -1,0 +1,8 @@
+{
+    "editor.formatOnSave": true,
+    "workbench.colorCustomizations": {
+        "statusBar.background": "#131313",
+        "terminal.background": "#000000",
+        "titleBar.activeBackground": "#141414"
+    }
+}
